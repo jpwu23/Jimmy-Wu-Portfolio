@@ -13,7 +13,7 @@ Takeaways from completing this project include the application of concepts surro
 N/A
 
 ## Usage 
-Go to link: https://jpwu23.github.io/horiseon-digital/ Navigate across and better understand the services that Horiseon Social Solutions offer by clicking on the corresponding service using the navigation bar at the top of the webpage.
+Go to link: https://jpwu23.github.io/Jimmy-Wu-Portfolio/ Navigate across the webpage to gain insight on Jimmy Wu's work profile by clicking on the links to the corresponding sections using the navigation bar at the top of the webpage.
 
 ![alt text](assets/images/screenshot2.PNG)
 
